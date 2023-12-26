@@ -1,0 +1,48 @@
+ <!DOCTYPE html>
+ <html lang="en" dir="ltr">
+   <head>
+     <meta charset="utf-8">
+     <title>Geoweb</title>
+   </head>
+
+   <body>
+     <h1>Geoweb website</h1>
+     <h3>This is a website for the mystery cache</h3>
+
+     <form class="" method="get">
+ <input type="number" name="first_numr" value="" id="num1">
+ <input type="number" name="second_num" value=""id="num2">
+     </form>
+     <button type="submit" name="button" onclick="calculate('add')">Add</button>
+     <button type="submit" name="button" onclick="calculate('subtract')">Subtract</button>
+     <button type="submit" name="button" onclick="calculate('multiply')">Multiply</button>
+     <button type="submit" name="button" onclick="calculate('divide')">Divide</button>
+     <p id="display"></p>
+
+     <p>And there might be red herrings like the one above. Some of these includes:</p>
+     <li>Red fish?</li>
+     <li>Random binary code?</li>
+
+     <li>The text above?</li>
+
+     <style media="screen">
+   .div1 {
+     background-color:#DEF5E5;
+     height:300px;
+     margin-right:100px;
+     margin-left:100px;
+     margin-top:100px;
+     padding-left:100px;
+     padding-top:100px;
+   }
+     </style>
+<style media="7733029">
+</style>
+     <h3>Your task:</h3>
+     <p>the first cache requires binary. Go find it</p>
+     <p>The second cache requires...failed margins?</p>
+     <p>The third cache requires...whatever is below... What are those?</p>
+     <h6>FINALE CACHE: FIND THE 7 DIGIT CODE AND ADD UP ALL OTHER NUMBERS YOU FOUND</h6>
+   </body>
+    01000001 00111101 00111000 00110010 00100000 00100000 01000010 00111101 00110101 00111001 00100000 00100000 01000011 00111101 00110111 00111000 00100000 00100000 01000100 00111101 00111001 00110001 00110011
+ </html>
